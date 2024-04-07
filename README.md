@@ -97,6 +97,13 @@ Available functions:
 
 # Installation
 
+
+Before installation make sure to install 'rtools', 'rgeos', 'WilcoxCV' packages , you can install them manually by download 
+rtools for windows from https://cran.r-project.org/bin/windows/Rtools/rtools43/rtools.html
+rgeos from https://cran.r-project.org/src/contrib/Archive/rgeos/ and 
+WilcoxCV from https://cran.r-project.org/src/contrib/Archive/WilcoxCV/
+
+
 To install the latest development version directly from the GitHub
 repository. Before running **ForesToolboxRS**, it is necessary to
 install the **remotes** package:
